@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Felina films - felinafilms.si
 ---
 
 ## Felina d.o.o.
