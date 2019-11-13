@@ -18,15 +18,20 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Felina films
-description: >- # this means to ignore newlines until "baseurl:"
-  We are a production company based in Ljubljana, Slovenia.
+title : Felina films
+tagline: Production company based in Ljubljana, Slovenia.
+description: We are a production company based in Ljubljana, Slovenia.
+author :
+  name : Davorin Pavlica
+  email : davorin.pavlica@zvpl.com
+  github : davorinpavlica
+  twitter : davorinpavlica
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 facebook_username: felinafilm
+# production_url : http://hishnband.si
 
 # Build settings
-theme: minima
 plugins:
   - jekyll-feed
 
