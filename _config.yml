@@ -29,7 +29,7 @@ author :
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 facebook_username: felinafilm
-# production_url : http://hishnband.si
+production_url : http://www.felinafilms.si
 
 # Build settings
 plugins:
